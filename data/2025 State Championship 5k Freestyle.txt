@@ -1,0 +1,212 @@
+﻿		High School Boys													
+Place	Bib	Name	First name	Last name	Team name	Team name 2	Category	Gender	Time	Difference	% Back	% Winning	% Average	% Median	Team_Points
+1	204	Will Mowry	Will	Mowry	BEND	Northern	High School Boys	Male	12:43.6	-	-	100%	27.14%	26.51%	1
+2	203	Jayvin Lemieux	Jayvin	Lemieux	HRV	Mt Hood	High School Boys	Male	13:16.3	+0:32.7	+4.28%	95.89%	24.02%	23.36%	2
+3	202	Connor Olsen	Connor	Olsen	SUMMIT	Northern	High School Boys	Male	13:17.4	+0:33.8	+4.43%	95.76%	23.92%	23.25%	3
+4	215	Kevin Mattox	Kevin	Mattox	MT VIEW	Southern	High School Boys	Male	13:18.1	+0:34.5	+4.52%	95.68%	23.85%	23.19%	4
+5	206	Eli Shockey	Eli	Shockey	MT VIEW	Southern	High School Boys	Male	13:19.4	+0:35.8	+4.69%	95.52%	23.73%	23.06%	5
+6	207	Toby Spencer	Toby	Spencer	SUMMIT	Northern	High School Boys	Male	13:20.0	+0:36.4	+4.77%	95.45%	23.67%	23.00%	6
+7	201	Jack Billowitz	Jack	Billowitz	BEND	Northern	High School Boys	Male	13:44.3	+1:00.7	+7.95%	92.64%	21.35%	20.66%	7
+8	212	Nathan Liddell (RVR)	Nathan	Liddell	RPA/R/RVR	Northern	High School Boys	Male	14:02.6	+1:19.0	+10.35%	90.62%	19.60%	18.90%	8
+9	213	Miles Betts	Miles	Betts	CORVALLIS	Mt Hood	High School Boys	Male	14:08.9	+1:25.3	+11.17%	89.95%	19.00%	18.30%	9
+10	214	Ian Spencer	Ian	Spencer	SUMMIT	Northern	High School Boys	Male	14:12.7	+1:29.1	+11.67%	89.55%	18.64%	17.93%	10
+11	224	Josiah Tranby	Josiah	Tranby	MT VIEW	Southern	High School Boys	Male	14:14.1	+1:30.5	+11.85%	89.40%	18.51%	17.80%	11
+12	211	James Adams	James	Adams	SUMMIT	Northern	High School Boys	Male	14:15.2	+1:31.6	+12.00%	89.29%	18.40%	17.69%	12
+13	222	Benjamin Andres	Benjamin	Andres	MT VIEW	Southern	High School Boys	Male	14:19.5	+1:35.9	+12.56%	88.84%	17.99%	17.28%	13
+14	223	Liam Rockwell	Liam	Rockwell	MT VIEW	Southern	High School Boys	Male	14:24.3	+1:40.7	+13.19%	88.35%	17.53%	16.81%	14
+15	216	Colin Gerald	Colin	Gerald	HRV	Mt Hood	High School Boys	Male	14:28.5	+1:44.9	+13.74%	87.92%	17.13%	16.41%	15
+16	225	Caleb Shaw (RVR)	Caleb	Shaw	RPA/R/RVR	Northern	High School Boys	Male	14:42.6	+1:59.0	+15.58%	86.52%	15.79%	15.05%	16
+17	233	Tisdel Spencer	Tisdel	Spencer	SISTERS	Northern	High School Boys	Male	14:48.0	+2:04.4	+16.29%	85.99%	15.27%	14.53%	17
+18	227	Zeke Cramer	Zeke	Cramer	BEND	Northern	High School Boys	Male	14:53.7	+2:10.1	+17.04%	85.44%	14.73%	13.98%	18
+19	221	Dominick Evans	Dominick	Evans	MT VIEW	Southern	High School Boys	Male	14:54.3	+2:10.7	+17.12%	85.39%	14.67%	13.93%	-
+20	234	Caden Wenger	Caden	Wenger	BEND	Northern	High School Boys	Male	15:04.5	+2:20.9	+18.45%	84.42%	13.70%	12.95%	19
+21	217	Christopher Blackburne	Christopher	Blackburne	CORVALLIS	Mt Hood	High School Boys	Male	15:05.1	+2:21.5	+18.53%	84.37%	13.64%	12.89%	20
+22	235	Ethan Lowe	Ethan	Lowe	BEND	Northern	High School Boys	Male	15:16.8	+2:33.2	+20.06%	83.29%	12.52%	11.76%	21
+23	232	Isaac Miller	Isaac	Miller	MT VIEW	Southern	High School Boys	Male	15:32.8	+2:49.2	+22.16%	81.86%	11.00%	10.22%	-
+24	236	Cy Covington	Cy	Covington	MT VIEW	Southern	High School Boys	Male	15:35.0	+2:51.4	+22.45%	81.67%	10.79%	10.01%	-
+25	251	Aaron Ward	Aaron	Ward	CALDERA	Southern	High School Boys	Male	15:53.9	+3:10.3	+24.92%	80.05%	8.98%	8.19%	22
+26	231	Griffin Ward	Griffin	Ward	MT VIEW	Southern (RLMS)	High School Boys	Male	15:57.2	+3:13.6	+25.35%	79.77%	8.67%	7.87%	-
+27	255	Ethan Urhausen (R)	Ethan	Urhausen	RPA/R/RVR	Northern	High School Boys	Male	16:06.0	+3:22.4	+26.51%	79.05%	7.83%	7.03%	23
+28	226	Aiden Duryee (R)	Aiden	Duryee	RPA/R/RVR	Northern	High School Boys	Male	16:07.4	+3:23.8	+26.69%	78.93%	7.70%	6.89%	24
+29	263	Hayner Ben	Hayner	Ben	SISTERS	Northern	High School Boys	Male	16:11.5	+3:27.9	+27.23%	78.60%	7.30%	6.50%	25
+30	237	Oliver Hackenbruck	Oliver	Hackenbruck	SUMMIT	Northern	High School Boys	Male	16:13.5	+3:29.9	+27.49%	78.44%	7.11%	6.30%	26
+31	253	Kian Fineran (RPA)	Kian	Fineran	RPA/R/RVR	Northern	High School Boys	Male	16:18.3	+3:34.7	+28.12%	78.05%	6.66%	5.84%	27
+32	261	Milo Krigbaum	Milo	Krigbaum	BEND	Northern	High School Boys	Male	16:26.9	+3:43.3	+29.24%	77.37%	5.84%	5.01%	-
+33	264	Miles Rydstrom	Miles	Rydstrom	CALDERA	Southern	High School Boys	Male	16:30.5	+3:46.9	+29.71%	77.09%	5.49%	4.67%	28
+34	295	Samual Weed	Samual	Weed	MT VIEW	Southern	High School Boys	Male	16:40.2	+3:56.6	+30.98%	76.34%	4.57%	3.73%	-
+35	265	Griffin Doering	Griffin	Doering	SUMMIT	Northern	High School Boys	Male	16:41.9	+3:58.3	+31.21%	76.22%	4.40%	3.57%	-
+36	272	Mason Schermer	Mason	Schermer	MT VIEW	Southern (TL)	High School Boys	Male	16:45.0	+4:01.4	+31.61%	75.98%	4.11%	3.27%	-
+37	256	Harrison Swift (RVR)	Harrison	Swift	RPA/R/RVR	Northern	High School Boys	Male	16:46.2	+4:02.6	+31.77%	75.89%	3.99%	3.16%	-
+38	287	Simon Rudolph	Simon	Rudolph	BEND	Northern	High School Boys	Male	16:56.4	+4:12.8	+33.11%	75.13%	3.02%	2.18%	-
+39	275	Sebastian Mente (RPA)	Sebastian	Mente	RPA/R/RVR	Northern	High School Boys	Male	17:07.8	+4:24.2	+34.60%	74.29%	1.93%	1.08%	-
+40	254	Max Chang	Max	Chang	BEND	Northern	High School Boys	Male	17:10.0	+4:26.4	+34.89%	74.14%	1.72%	0.87%	-
+41	267	Andrew Schneider	Andrew	Schneider	IDA B WELLS	Mt Hood	High School Boys	Male	17:11.7	+4:28.1	+35.11%	74.01%	1.56%	0.70%	-
+42	284	Emmet Pedersen	Emmet	Pedersen	MT VIEW	Southern	High School Boys	Male	17:12.9	+4:29.3	+35.27%	73.93%	1.45%	0.59%	-
+43	262	Sullivan Jones	Sullivan	Jones	HRV	Mt Hood	High School Boys	Male	17:13.5	+4:29.9	+35.35%	73.88%	1.39%	0.53%	29
+44	271	Michal Hudak	Michal	Hudak	MT VIEW	Southern	High School Boys	Male	17:19.0	+4:35.4	+36.07%	73.49%	0.86%	0.00%	-
+45	266	Riley Condon	Riley	Condon	MT VIEW	Southern	High School Boys	Male	17:20.3	+4:36.7	+36.24%	73.40%	0.74%	-0.13%	-
+46	274	Aksel Miller	Aksel	Miller	MT VIEW	Southern	High School Boys	Male	17:25.0	+4:41.4	+36.85%	73.07%	0.29%	-0.58%	-
+47	292	Liam Bazzell	Liam	Bazzell	MT VIEW	Southern	High School Boys	Male	17:34.1	+4:50.5	+38.04%	72.44%	-0.58%	-1.45%	-
+48	282	Backus Emerson	Backus	Emerson	SISTERS	Northern	High School Boys	Male	17:36.3	+4:52.7	+38.33%	72.29%	-0.79%	-1.67%	30
+49	311	Eli Pixton	Eli	Pixton	CALDERA	Southern	High School Boys	Male	17:38.7	+4:55.1	+38.65%	72.13%	-1.02%	-1.90%	31
+50	257	Foster Slabaugh	Foster	Slabaugh	CORVALLIS	Mt Hood	High School Boys	Male	17:39.0	+4:55.4	+38.69%	72.11%	-1.04%	-1.92%	32
+51	296	Ethan Bazzell	Ethan	Bazzell	MT VIEW	Southern	High School Boys	Male	17:40.8	+4:57.2	+38.92%	71.98%	-1.22%	-2.10%	-
+52	244	Wyeth Droege	Wyeth	Droege	HRV	Mt Hood	High School Boys	Male	17:42.7	+4:59.1	+39.17%	71.85%	-1.40%	-2.28%	33
+53	293	Wyatt Holmberg	Wyatt	Holmberg	BEND	Northern	High School Boys	Male	17:43.8	+5:00.2	+39.31%	71.78%	-1.50%	-2.39%	-
+54	283	Finn Stancliff (RVR)	Finn	Stancliff	RPA/R/RVR	Northern	High School Boys	Male	17:46.6	+5:03.0	+39.68%	71.59%	-1.77%	-2.66%	-
+55	297	Nathan Schneiter	Nathan	Schneiter	BEND	Northern	High School Boys	Male	17:53.9	+5:10.3	+40.64%	71.11%	-2.47%	-3.36%	-
+56	273	Tate Shays	Tate	Shays	HRV	Mt Hood	High School Boys	Male	17:57.5	+5:13.9	+41.11%	70.87%	-2.81%	-3.71%	34
+57	277	Rex Wadsworth	Rex	Wadsworth	BEND	Northern	High School Boys	Male	18:00.1	+5:16.5	+41.45%	70.70%	-3.06%	-3.96%	-
+58	322	Turpen Jack	Turpen	Jack	SISTERS	Northern	High School Boys	Male	18:11.1	+5:27.5	+42.89%	69.98%	-4.11%	-5.01%	35
+59	304	Merin Vlcek	MERIN	VLCEK	CORVALLIS	Mt Hood	High School Boys	Male	18:15.0	+5:31.4	+43.40%	69.74%	-4.48%	-5.39%	36
+60	315	Leland Flood	Leland	Flood	HRV	Mt Hood	High School Boys	Male	18:15.5	+5:31.9	+43.47%	69.70%	-4.53%	-5.44%	-
+61	252	Heaten Barr	Heaten	Barr	BEND	Northern	High School Boys	Male	18:17.1	+5:33.5	+43.67%	69.60%	-4.68%	-5.59%	-
+62	285	Finneas Young (RVR)	Finneas	Young	RPA/R/RVR	Northern	High School Boys	Male	18:20.0	+5:36.4	+44.05%	69.42%	-4.96%	-5.87%	-
+63	276	Christian Slabaugh	Christian	Slabaugh	CORVALLIS	Mt Hood	High School Boys	Male	18:22.9	+5:39.3	+44.43%	69.24%	-5.23%	-6.15%	37
+64	286	Cole Hartfield (R)	Cole	Hartfield	RPA/R/RVR	Northern	High School Boys	Male	18:23.5	+5:39.9	+44.51%	69.20%	-5.29%	-6.21%	-
+65	323	Kelvin Ye	Kelvin	Ye	MT VIEW	Southern	High School Boys	Male	18:32.1	+5:48.5	+45.64%	68.66%	-6.11%	-7.04%	-
+66	305	Elias Cunningham (RVR)	Elias	Cunningham	RPA/R/RVR	Northern	High School Boys	Male	18:43.3	+5:59.7	+47.11%	67.98%	-7.18%	-8.11%	-
+67	291	Clement (Lem) White-Moore	Clement (Lem)	White-Moore	S EUGENE	Southern	High School Boys	Male	18:46.7	+6:03.1	+47.55%	67.77%	-7.50%	-8.44%	38
+68	302	Jonah Adkins	Jonah	Adkins	SUMMIT	Northern	High School Boys	Male	18:55.1	+6:11.5	+48.65%	67.27%	-8.31%	-9.25%	-
+69	303	James Snyder (RVR)	James	Snyder	RPA/R/RVR	Northern	High School Boys	Male	19:24.4	+6:40.8	+52.49%	65.58%	-11.10%	-12.07%	-
+70	301	Alexander Johnson	Alexander	Johnson	LA PINE	Southern	High School Boys	Male	19:50.0	+7:06.4	+55.84%	64.17%	-13.54%	-14.53%	-
+71	353	Jayden Tranby	Jayden	Tranby	MT VIEW	Southern	High School Boys	Male	19:55.6	+7:12.0	+56.57%	63.87%	-14.08%	-15.07%	-
+72	281	Thane Georgeton	Thane	Georgeton	BEND	Northern	High School Boys	Male	20:01.7	+7:18.1	+57.37%	63.54%	-14.66%	-15.66%	-
+73	317	Colter Thomas	Colter	Thomas	SUMMIT	Northern	High School Boys	Male	20:06.6	+7:23.0	+58.01%	63.29%	-15.13%	-16.13%	-
+74	327	Solomon Towne	Solomon	Towne	MT VIEW	Southern	High School Boys	Male	20:08.1	+7:24.5	+58.21%	63.21%	-15.27%	-16.28%	-
+75	307	Hayden Beard (RVR)	Hayden	Beard	RPA/R/RVR	Northern	High School Boys	Male	20:32.4	+7:48.8	+61.39%	61.96%	-17.59%	-18.61%	-
+76	345	Torin Guerrero	Torin	Guerrero	MT VIEW	Southern	High School Boys	Male	20:36.3	+7:52.7	+61.90%	61.76%	-17.96%	-18.99%	-
+77	325	Oscar Desmond-Cieslowski	Oscar	Desmond-Cieslowski	BEND	Northern	High School Boys	Male	20:43.4	+7:59.8	+62.83%	61.41%	-18.64%	-19.67%	-
+78	326	Lucas Creighton	Lucas	Creighton	CALDERA	Southern	High School Boys	Male	21:23.9	+8:40.3	+68.14%	59.48%	-22.50%	-23.57%	39
+79	344	Andrew Schram	Andrew	Schram	S EUGENE	Southern	High School Boys	Male	21:29.2	+8:45.6	+68.83%	59.23%	-23.01%	-24.08%	40
+80	332	Aaron Goyal	Aaron	Goyal	BEND	Northern	High School Boys	Male	21:36.6	+8:53.0	+69.80%	58.89%	-23.71%	-24.79%	-
+81	333	Oliver Chester	Oliver	Chester	MT VIEW	Southern	High School Boys	Male	21:52.4	+9:08.8	+71.87%	58.18%	-25.22%	-26.31%	-
+82	336	Andrew Mauch	Andrew	Mauch	BEND	Northern	High School Boys	Male	22:05.2	+9:21.6	+73.55%	57.62%	-26.44%	-27.55%	-
+83	331	CJ Waite (RVR)	CJ	Waite	RPA/R/RVR	Northern	High School Boys	Male	22:08.2	+9:24.6	+73.94%	57.49%	-26.73%	-27.83%	-
+84	343	Owen Goodman	Owen	Goodman	SUMMIT	Northern	High School Boys	Male	22:29.7	+9:46.1	+76.75%	56.58%	-28.78%	-29.90%	-
+85	342	Timothy Polishchuk	Timothy	Polishchuk	S EUGENE	Southern	High School Boys	Male	22:41.5	+9:57.9	+78.30%	56.09%	-29.91%	-31.04%	41
+86	354	Everett Jones	Everett	Jones	S EUGENE	Southern	High School Boys	Male	25:27.0	+12:43.4	+99.97%	50.01%	-45.70%	-46.97%	42
+87	346	Ayden Graves	Ayden	Graves	MT VIEW	Southern	High School Boys	Male	28:20.1	+15:36.5	+122.64%	44.92%	-62.21%	-63.63%	-
+-	205	Irving Stoller	Irving	Stoller	SUMMIT	Northern	High School Boys	Male	DNS	-	-	-	-	-	-
+-	294	Theodore White-Moore	Theodore	White-Moore	S EUGENE	Southern	High School Boys	Male	DNS	-	-	-	-	-	-
+-	306	Diego Flores Schwab	Diego	Flores Schwab	MT VIEW	Southern	High School Boys	Male	DNS	-	-	-	-	-	-
+-	313	Mika Laukkanen Raskauskas	Mika	Laukkanen Raskauskas	CORVALLIS	Mt Hood	High School Boys	Male	DNS	-	-	-	-	-	-
+-	314	Noah Tran	Noah	Tran	MT VIEW	Southern	High School Boys	Male	DNS	-	-	-	-	-	-
+-	316	Connall McMullen	Connall	McMullen	MT VIEW	Southern	High School Boys	Male	DNS	-	-	-	-	-	-
+-	324	Porter Stowers	Porter	Stowers	CORVALLIS	Mt Hood	High School Boys	Male	DNS	-	-	-	-	-	-
+-	334	Rye Jones-Hyde	Rye	Jones-Hyde	HRV	Mt Hood	High School Boys	Male	DNS	-	-	-	-	-	-
+															
+		High School Girls													
+Place	Bib	Name	First name	Last name	Team name	Team name 2	Category	Gender	Time	Difference	% Back	% Winning	% Average	% Median	Team_Points
+1	5	Sophia Capozzi	Sophia	Capozzi	SUMMIT	Northern	High School Girls	Female	14:24.9	-	-	100%	30.02%	29.66%	1
+2	3	Johanna Dake	Johanna	Dake	SUMMIT	Northern	High School Girls	Female	14:25.1	+0:00.2	+0.02%	99.98%	30.01%	29.64%	2
+3	4	Anhelina Hryhorenko	Anhelina	Hryhorenko	SUMMIT	Northern	High School Girls	Female	14:26.8	+0:01.9	+0.22%	99.78%	29.87%	29.51%	3
+4	6	Kaia Vrbata	Kaia	Vrbata	SUMMIT	Northern	High School Girls	Female	16:13.4	+1:48.5	+12.54%	88.85%	21.25%	20.84%	4
+5	2	Violet Rodhouse	Violet	Rodhouse	SUMMIT	Northern	High School Girls	Female	16:14.0	+1:49.1	+12.61%	88.80%	21.20%	20.79%	5
+6	14	Mira Shah	Mira	Shah	MCDANIEL	Mt Hood	High School Girls	Female	16:15.7	+1:50.8	+12.81%	88.64%	21.06%	20.65%	-
+7	12	Adelaide Nelson	Adelaide	Nelson	SMA	Mt Hood	High School Girls	Female	16:28.7	+2:03.8	+14.31%	87.48%	20.01%	19.59%	6
+8	17	Brook Sandvall	Brook	Sandvall	BEND	Northern	High School Girls	Female	16:46.3	+2:21.4	+16.35%	85.95%	18.58%	18.16%	7
+9	1	Cami Laakmann	Cami	Laakmann	BEND	Northern	High School Girls	Female	16:47.7	+2:22.8	+16.51%	85.83%	18.47%	18.05%	8
+10	11	Eva Dicharry	Eva	Dicharry	SUMMIT	Northern	High School Girls	Female	16:51.9	+2:27.0	+17.00%	85.47%	18.13%	17.70%	-
+11	21	Olivia Tranby	Olivia	Tranby	MT VIEW	Southern	High School Girls	Female	16:52.5	+2:27.6	+17.07%	85.42%	18.08%	17.66%	9
+12	26	Mia Koernig	Mia	Koernig	CALDERA	Southern	High School Girls	Female	17:20.2	+2:55.3	+20.27%	83.15%	15.84%	15.40%	10
+13	15	Lily Hardy (RVR)	Lily	Hardy	RPA/RVR	Northern	High School Girls	Female	17:33.0	+3:08.1	+21.75%	82.14%	14.81%	14.36%	11
+14	24	Lauren Lilly	Lauren	Lilly	BEND	Northern	High School Girls	Female	17:37.4	+3:12.5	+22.26%	81.79%	14.45%	14.00%	12
+15	25	Casey Hermanson	Casey	Hermanson	BEND	Northern	High School Girls	Female	17:38.7	+3:13.8	+22.41%	81.69%	14.34%	13.90%	13
+16	16	Atlin Wognild	Atlin	Wognild	MT VIEW	Southern	High School Girls	Female	17:48.7	+3:23.8	+23.56%	80.93%	13.54%	13.09%	14
+17	27	Zoë Mowry	Zoë	Mowry	BEND	Northern	High School Girls	Female	17:58.2	+3:33.3	+24.66%	80.22%	12.77%	12.31%	15
+18	37	Mackenzie Marty	Mackenzie	Marty	MT VIEW	Southern	High School Girls	Female	18:01.3	+3:36.4	+25.02%	79.99%	12.52%	12.06%	16
+19	31	Ellie Colquhoun	Ellie	Colquhoun	CALDERA	Southern	High School Girls	Female	18:18.6	+3:53.7	+27.02%	78.73%	11.12%	10.65%	17
+20	34	Lena Appleby (RPA)	Lena	Appleby	RPA/RVR	Northern	High School Girls	Female	18:25.2	+4:00.3	+27.78%	78.26%	10.58%	10.12%	18
+21	33	Cara Duval	Cara	Duval	MT VIEW	Southern	High School Girls	Female	18:27.8	+4:02.9	+28.08%	78.07%	10.37%	9.91%	19
+22	32	Madison Acton (RPA)	Madison	Acton	RPA/RVR	Northern	High School Girls	Female	18:29.5	+4:04.6	+28.28%	77.95%	10.23%	9.77%	20
+23	35	Magnolia Rowles	Magnolia	Rowles	BEND	Northern	High School Girls	Female	18:32.3	+4:07.4	+28.60%	77.76%	10.01%	9.54%	-
+24	56	Liliana Miller	Liliana	Miller	BEND	Northern	High School Girls	Female	18:52.9	+4:28.0	+30.99%	76.34%	8.34%	7.86%	-
+25	73	Anneka Shaffner	Anneka	Shaffner	SMA	Mt Hood	High School Girls	Female	18:53.6	+4:28.7	+31.07%	76.30%	8.28%	7.81%	21
+26	66	Risa Moore	Risa	Moore	MT VIEW	Southern	High School Girls	Female	18:57.6	+4:32.7	+31.53%	76.03%	7.96%	7.48%	22
+27	57	Jahla Giebelhaus	Jahla	Giebelhaus	BEND	Northern	High School Girls	Female	19:06.9	+4:42.0	+32.60%	75.41%	7.21%	6.73%	-
+28	43	Kaia Murphy	Kaia	Murphy	S EUGENE	Southern	High School Girls	Female	19:14.3	+4:49.4	+33.46%	74.93%	6.61%	6.12%	23
+29	44	Sage Cramp	Sage	Cramp	CALDERA	Southern	High School Girls	Female	19:15.0	+4:50.1	+33.54%	74.88%	6.55%	6.07%	24
+30	71	Sophia Ransom	Sophia	Ransom	HRV	Mt Hood	High School Girls	Female	19:16.6	+4:51.7	+33.73%	74.78%	6.42%	5.94%	25
+31	55	Audri Zimmerman	Audri	Zimmerman	MT VIEW	Southern	High School Girls	Female	19:20.4	+4:55.5	+34.17%	74.53%	6.12%	5.63%	-
+32	36	Cate Haspela	Cate	Haspela	HRV	Mt Hood	High School Girls	Female	19:27.8	+5:02.9	+35.02%	74.06%	5.52%	5.03%	26
+33	65	Cassidy Smart	Cassidy	Smart	CORVALLIS	Mt Hood (PHL)	High School Girls	Female	19:42.9	+5:18.0	+36.77%	73.12%	4.30%	3.80%	27
+34	52	Tenner Desmond	Tenner	Desmond	BEND	Northern	High School Girls	Female	20:07.6	+5:42.7	+39.62%	71.62%	2.30%	1.79%	-
+35	62	Taylor Goodrich	Taylor	Goodrich	MT VIEW	Southern	High School Girls	Female	20:08.2	+5:43.3	+39.69%	71.59%	2.25%	1.74%	-
+36	64	Aspen Bradbury	Aspen	Bradbury	CALDERA	Southern	High School Girls	Female	20:27.8	+6:02.9	+41.96%	70.44%	0.66%	0.15%	28
+37	67	Noelle Hively	Noelle	Hively	BEND	Northern	High School Girls	Female	20:29.6	+6:04.7	+42.17%	70.34%	0.52%	0.00%	-
+38	74	Calla Shaff	Calla	Shaff	CORVALLIS	Mt Hood	High School Girls	Female	20:34.7	+6:09.8	+42.76%	70.05%	0.11%	-0.41%	29
+39	84	Kelly Ye	Kelly	Ye	MT VIEW	Southern	High School Girls	Female	20:42.3	+6:17.4	+43.64%	69.62%	-0.51%	-1.03%	-
+40	63	Alina Hildreth	Alina	Hildreth	SUMMIT	Northern	High School Girls	Female	20:48.6	+6:23.7	+44.36%	69.27%	-1.02%	-1.55%	-
+41	61	Cassidy Carmichael	Cassidy	Carmichael	SUMMIT	Northern	High School Girls	Female	20:52.0	+6:27.1	+44.76%	69.08%	-1.29%	-1.82%	-
+42	77	Hannah Miller	Hannah	Miller	BEND	Northern	High School Girls	Female	20:54.7	+6:29.8	+45.07%	68.93%	-1.51%	-2.04%	-
+43	54	Aneka Diem	Aneka	Diem	HRV	Mt Hood	High School Girls	Female	21:09.6	+6:44.7	+46.79%	68.12%	-2.72%	-3.25%	30
+44	85	Kiara Martin	Kiara	Martin	SISTERS	Northern	High School Girls	Female	21:18.2	+6:53.3	+47.79%	67.67%	-3.41%	-3.95%	31
+45	72	Ava Riehle	Ava	Riehle	SISTERS	Northern	High School Girls	Female	21:22.1	+6:57.2	+48.24%	67.46%	-3.73%	-4.27%	32
+46	101	Isabella Scholl	Isabella	Scholl	MT VIEW	Southern	High School Girls	Female	21:29.9	+7:05.0	+49.14%	67.05%	-4.36%	-4.90%	-
+47	81	Ella Balch	Ella	Balch	HRV	Mt Hood	High School Girls	Female	21:31.4	+7:06.5	+49.31%	66.97%	-4.48%	-5.03%	33
+48	51	Ella Eby	Ella	Eby	SISTERS	Northern	High School Girls	Female	21:32.0	+7:07.1	+49.38%	66.94%	-4.53%	-5.07%	34
+49	53	Annelise Allen	Annelise	Allen	MT VIEW	Southern	High School Girls	Female	21:32.8	+7:07.9	+49.47%	66.90%	-4.60%	-5.14%	-
+50	86	Delsey Fuller	Delsey	Fuller	CALDERA	Southern	High School Girls	Female	21:36.9	+7:12.0	+49.95%	66.69%	-4.93%	-5.47%	35
+51	104	Sophie Singer	Sophie	Singer	MT VIEW	Southern	High School Girls	Female	21:38.9	+7:14.0	+50.18%	66.59%	-5.09%	-5.64%	-
+52	95	Emme Obermire	Emme	Obermire	CORVALLIS	Mt Hood (CV)	High School Girls	Female	21:41.9	+7:17.0	+50.53%	66.43%	-5.33%	-5.88%	36
+53	94	Cypress Tingley (RPA)	Cypress	Tingley	RPA/RVR	Northern	High School Girls	Female	21:47.0	+7:22.1	+51.12%	66.17%	-5.74%	-6.29%	37
+54	103	Eliana Kamanya	Eliana	Kamanya	CALDERA	Southern	High School Girls	Female	21:56.3	+7:31.4	+52.19%	65.71%	-6.50%	-7.05%	-
+55	92	Gabby Gross	Gabby	Gross	BEND	Northern	High School Girls	Female	22:02.7	+7:37.8	+52.93%	65.39%	-7.01%	-7.57%	-
+56	97	Solvae Carter	Solvae	Carter	SMA	Mt Hood	High School Girls	Female	22:10.2	+7:45.3	+53.80%	65.02%	-7.62%	-8.18%	38
+57	83	Kate Davis	Kate	Davis	HRV	Mt Hood	High School Girls	Female	22:55.2	+8:30.3	+59.00%	62.89%	-11.26%	-11.84%	39
+58	107	Lillian Nydahl	Lillian	Nydahl	HRV	Mt Hood	High School Girls	Female	22:57.6	+8:32.7	+59.28%	62.78%	-11.46%	-12.04%	-
+59	102	Hannah Holdt	Hannah	Holdt	CORVALLIS	Mt Hood	High School Girls	Female	23:20.9	+8:56.0	+61.97%	61.74%	-13.34%	-13.93%	40
+60	87	Vida Halpern	Vida	Halpern	BEND	Northern	High School Girls	Female	23:32.1	+9:07.2	+63.27%	61.25%	-14.25%	-14.84%	-
+61	91	Astrid Atkinson	Astrid	Atkinson	CORVALLIS	Mt Hood	High School Girls	Female	23:32.9	+9:08.0	+63.36%	61.21%	-14.31%	-14.91%	41
+62	123	Orli Kahn	Orli	Kahn	ASHLAND	Southern	High School Girls	Female	23:46.8	+9:21.9	+64.97%	60.62%	-15.44%	-16.04%	42
+63	96	Catherine Sullivan	Catherine	Sullivan	HRV	Mt Hood	High School Girls	Female	24:01.4	+9:36.5	+66.66%	60.00%	-16.62%	-17.23%	-
+64	82	Ella Corbett	Ella	Corbett	S EUGENE	Southern	High School Girls	Female	24:34.7	+10:09.8	+70.51%	58.65%	-19.31%	-19.93%	43
+65	113	Campbell Thomas	Campbell	Thomas	SUMMIT	Northern	High School Girls	Female	24:46.2	+10:21.3	+71.83%	58.20%	-20.24%	-20.87%	-
+66	106	Abigail Sims	Abigail	Sims	CORVALLIS	Mt Hood	High School Girls	Female	24:53.1	+10:28.2	+72.63%	57.93%	-20.80%	-21.43%	-
+67	124	Eliana Scelza	Eliana	Scelza	ASHLAND	Southern	High School Girls	Female	24:59.2	+10:34.3	+73.34%	57.69%	-21.29%	-21.93%	44
+68	114	Elin Medina	Elin	Medina	MT VIEW	Southern	High School Girls	Female	25:05.6	+10:40.7	+74.08%	57.45%	-21.81%	-22.45%	-
+69	116	Emilia Hildreth	Emilia	Hildreth	SUMMIT	Northern	High School Girls	Female	25:40.2	+11:15.3	+78.08%	56.16%	-24.61%	-25.26%	-
+70	125	Kaiya Speier	Kaiya	Speier	ASHLAND	Southern (SMS)	High School Girls	Female	28:22.6	+13:57.7	+96.86%	50.80%	-37.75%	-38.47%	45
+71	117	Olivia Cavazos	Olivia	Cavazos	ASHLAND	Southern (SMS)	High School Girls	Female	28:39.6	+14:14.7	+98.82%	50.30%	-39.13%	-39.85%	46
+72	126	Euphemia Currier	Euphemia	Currier	S EUGENE	Southern	High School Girls	Female	28:41.2	+14:16.3	+99.01%	50.25%	-39.26%	-39.98%	47
+73	121	Ayaka Harada	Ayaka	Harada	MT VIEW	Southern	High School Girls	Female	31:57.3	+17:32.4	+121.68%	45.11%	-55.12%	-55.93%	-
+-	13	Nola Stryker	Nola	Stryker	SUMMIT	Northern	High School Girls	Female	DNS	-	-	-	-	-	-
+-	22	Lucia Williams	Lucia	Williams	CORVALLIS	Mt Hood	High School Girls	Female	DNS	-	-	-	-	-	-
+-	23	Skye Knox	Skye	Knox	SUMMIT	Northern	High School Girls	Female	DNS	-	-	-	-	-	-
+-	75	Ina Link	Ina	Link	BEND	Northern	High School Girls	Female	DNS	-	-	-	-	-	-
+-	93	Caroline Cormier	Caroline	Cormier	SMA	Mt Hood	High School Girls	Female	DNS	-	-	-	-	-	-
+-	111	Annika Ramey	Annika	Ramey	HRV	Mt Hood	High School Girls	Female	DNS	-	-	-	-	-	-
+-	112	Kersie Knoll	Kersie	Knoll	SUMMIT	Northern	High School Girls	Female	DNS	-	-	-	-	-	-
+-	115	Georgia Boggs	Georgia	Boggs	BEND	Northern	High School Girls	Female	DNS	-	-	-	-	-	-
+-	122	Addiana Brock	Addiana	Brock	ASHLAND	Southern	High School Girls	Female	DNS	-	-	-	-	-	-
+															
+		No Score Boys													
+Place	Bib	Name	First name	Last name	Team name	Team name 2	Category	Gender	Time	Difference	% Back	% Winning	% Average	% Median	Team_Points
+1	312	Noah Kronberg	Noah	Kronberg		MT VIEW	No Score Boys	Male	18:18.2	-	-	100%	14.58%	12.77%	-
+2	335	Judah Tsypin	Judah	Tsypin		HRV	No Score Boys	Male	20:59.0	+2:40.8	+14.64%	87.23%	2.07%	0.00%	-
+3	337	Green Sutton	Green	Sutton		HRV	No Score Boys	Male	24:59.7	+6:41.5	+36.56%	73.23%	-16.65%	-19.12%	-
+-	321	Clark Finnigan	Clark	Finnigan		SISTERS	No Score Boys	Male	DNS	-	-	-	-	-	-
+-	341	Max Herron	Max	Herron		ASHLAND	No Score Boys	Male	DNS	-	-	-	-	-	-
+															
+		No Score Girls													
+Place	Bib	Name	First name	Last name	Team name	Team name 2	Category	Gender	Time	Difference	% Back	% Winning	% Average	% Median	Team_Points
+1	7	Freyja Leitheiser	Freyja	Leitheiser		BEND	No Score Girls	Female	15:25.4	-	-	100%	0.00%	0.00%	-
+-	76	Hazel Storer	Hazel	Storer		CORVALLIS	No Score Girls	Female	DNS	-	-	-	-	-	-
+-	105	Sol Bouwma-Gearhart	Sol	Bouwma-Gearhart		CORVALLIS	No Score Girls	Female	DNS	-	-	-	-	-	-
+-	127	Juniper Weber	Juniper	Weber		CORVALLIS	No Score Girls	Female	DNS	-	-	-	-	-	-
+															
+		Short Course Boys													
+Place	Bib	Name	First name	Last name	Team name	Team name 2	Category	Gender	Time	Difference	% Back	% Winning	% Average	% Median	Team_Points
+1	356	Liam Inerfeld	Liam	Inerfeld		S EUGENE	Short Course Boys	Male	10:47.3	-	-	100%	31.41%	6.04%	-
+2	352	Jalen Wilk	Jalen	Wilk		RPA	Short Course Boys	Male	11:28.9	+0:41.6	+6.43%	93.96%	27.01%	0.00%	-
+3	355	Michael Morales	Michael	Morales		MT VIEW	Short Course Boys	Male	24:55.1	+14:07.8	+130.97%	43.29%	-58.42%	-117.03%	-
+-	351	Tate Dawson-Powell	Tate	Dawson-Powell		CORVALLIS	Short Course Boys	Male	DNS	-	-	-	-	-	-
+															
+		Short Course Girls													
+Place	Bib	Name	First name	Last name	Team name	Team name 2	Category	Gender	Time	Difference	% Back	% Winning	% Average	% Median	Team_Points
+1	135	Madison Howell	Madison	Howell		RV REDMOND	Short Course Girls	Female	12:39.5	-	-	100%	17.94%	7.11%	-
+2	133	Lucy Hull	Lucy	Hull		SMA	Short Course Girls	Female	12:48.8	+0:09.3	+1.22%	98.79%	16.94%	5.97%	-
+3	132	Linnea Stabbert	Linnea	Stabbert		SMA	Short Course Girls	Female	14:26.4	+1:46.9	+14.08%	87.66%	6.39%	-5.97%	-
+4	134	Georgia Livny	Georgia	Livny		SMA	Short Course Girls	Female	21:47.5	+9:08.0	+72.15%	58.09%	-41.27%	-59.92%	-
+															
