@@ -7,6 +7,8 @@ toc: false
 
 Oregon High School XC Ski State Championships · Individual athlete progression across two seasons.
 
+[Methodology](./methodology) · [Data Explorer](./explore)
+
 ```js
 const data = await FileAttachment("data/athletes.json").json();
 ```

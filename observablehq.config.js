@@ -4,9 +4,9 @@ export default {
   title: "Ski Rankings",
 
   pages: [
-    {name: "Athlete Progress", path: "/"},
-    {name: "Data Explorer", path: "/explore"},
-    {name: "Methodology & Data Sources", path: "/methodology"}
+    { name: "Athlete Progress", path: "/" },
+    { name: "Data Explorer", path: "/explore" },
+    { name: "Methodology & Data Sources", path: "/methodology" },
   ],
 
   // Content to add to the head of the page, e.g. for a favicon:
@@ -18,7 +18,7 @@ export default {
   // Some additional configuration options and their defaults:
   // theme: "default", // try "light", "dark", "slate", etc.
   // header: "", // what to show in the header (HTML)
-  // footer: "Built with Observable.", // what to show in the footer (HTML)
+  footer: "Built with Observable. © 2026 jed.codes", // what to show in the footer (HTML)
   // sidebar: true, // whether to show the sidebar
   toc: true, // whether to show the table of contents
   pager: false, // whether to show previous & next links in the footer
