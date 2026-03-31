@@ -7,7 +7,7 @@ toc: false
 
 Oregon High School XC Ski State Championships · Individual athlete progression across two seasons.
 
-[Methodology](./methodology) · [Data Explorer](./explore)
+[Methodology](./methodology) · [Data Explorer](./explore) · [Report a Data Issue ↗](https://github.com/jedschneider/oisran-state-championship-ranking/issues)
 
 ```js
 const data = await FileAttachment("data/athletes.json").json();
